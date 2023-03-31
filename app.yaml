@@ -4,7 +4,7 @@ metadata:
   name: mysql-secret
 type: Opaque
 data:
-  ROOT_PASSWORD: root
+  ROOT_PASSWORD: bXlwYXNz
 ---
 apiVersion: mysql.presslabs.org/v1alpha1
 kind: MysqlCluster
